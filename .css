@@ -1,0 +1,134 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.maincontainer {
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+    background-image: url(./dylan-gillis-KdeqA3aTnBY-unsplash.jpg);
+}
+.headcontainer {
+            display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    list-style: none;
+}
+.headcontainer li a {
+    color: black;
+    margin-top: 10px;
+}
+.centercontainer {
+    margin: 200px;
+    font-size: larger;
+    color: rgb(207, 196, 196);
+    font-family: sans-serif;
+}
+.container {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.item {
+    height: 300px;
+    width: 30px;
+}
+.picture1 {
+    margin: 10px;
+ }
+ .container1 {
+     display: flex;
+ 
+ }
+ .textitem {
+     margin-left: 60px;
+     margin-top: 40px;
+ }
+ .button {
+     color: white;
+     border: 2px solid white;
+     background-color: rgb(65, 147, 65);
+     padding: 8px 35px 8px 35px;
+ }
+ .container2 {
+     display: flex;
+     justify-content: space-around;
+     background-color: rgb(241, 239, 239);
+     height: 120px;
+ }
+ .item {
+     margin-top: 37px;
+     font-size: 35px;
+ }
+ .container3 {
+     display: flex;
+     justify-content: center;
+     /* justify-content: space-around; */
+     margin-bottom: 0;
+ }
+ .house {
+ padding: 5px;
+ }
+ .container4 {
+     margin-top: 0;
+     opacity: 0.8;
+     background-image: url(./annie-spratt-hCb3lIB8L8E-unsplash.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .item1 {
+    border: solid grey 2px;
+    height: 230px;
+    padding: 5px;
+    margin: 7px;
+ }
+ .container5 {
+    display: flex;
+    margin-top: 30px;
+ }
+ .items2 {
+    font-family: Arial;
+ }
+ .container6 {
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+ }
+ .item6 {
+    height: 20px;
+    border-radius: 550px;
+    padding: 7px;
+ }
+ .item7 {
+    border-radius: 550px;
+    padding: 7px;
+    opacity: 0.6;
+ }
+ .container7 {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(65, 147, 65);
+    align-items: center;
+ }
+ .center_container {
+    padding-top: 90px;
+ } 
+.footer_container {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(86, 85, 85);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer_item {
+
+}s
